@@ -14,4 +14,4 @@ exclude = ["/admin/"]
 
 [dependencies]
 ring = { git = "https://github.com/jacktemaki/ring", branch = "ring-0.17-riscv" }
-untrusted = "0.7.0" # stick with the version that's used by current ring
+untrusted = "0.9.0" # stick with the version that's used by current ring
